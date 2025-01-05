@@ -1,0 +1,5 @@
+dataset_name: baseline_dataset
+edge_data:
+- file_name: baseline_edges.csv
+node_data:
+- file_name: baseline_nodes.csv
