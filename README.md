@@ -16,9 +16,9 @@ pip install -r requirements.txt
 
 | File | Description |
 |------|-------------|
-| input/Edges.csv| Provided Edges document  |
-| input/Ground Truth.csv     |    Provided Ground Truth Document         |
-| input/Nodes.csv     |     Provided Nodes document        |
+| input/Edges.csv| Provided Edges document (please upload)  |
+| input/Ground Truth.csv     |    Provided Ground Truth Document  (please upload)       |
+| input/Nodes.csv     |     Provided Nodes document (please upload)       |
 | processed/ground_split.csv     | Ground Truth csv, but with test, train and validation assignments. See train_test_val_split.ipynb for methodology             |
 | processed/baseline     | Nodes and Edges used for predicting links from the baseline model, with features generated with Bag of Words             |
 | processed/experiment     | Nodes and Edges used for predicting links from the experiment model, with features generated using BioBert embeddings             |
